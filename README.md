@@ -12,3 +12,5 @@ In this project, I built a mini honeynet in Microsoft Azure and ingested log sou
 - AzureNetworkAnalyticsCL (Malicious flows allowed into our honeynet)
 
 ## Architecture Before Hardenining / Security Controls 
+
+![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
