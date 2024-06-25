@@ -11,6 +11,9 @@ In this project, I built a mini honeynet in Microsoft Azure and ingested log sou
 - SecurityIncident (Incidents Created by Sentinel)
 - AzureNetworkAnalyticsCL (Malicious flows allowed into our honeynet)
 
-<tagname style="property:value;"> ## Technologies, Azure Compnoenets, and Regulations Employed 
 
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+
+## Technologies, Azure Components, and Regulations Employed 
+
+-**Azure Virtual Network (VNet)**
+-**Azure Network Security Groups (NSG)**
