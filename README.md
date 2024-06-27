@@ -1,3 +1,4 @@
+
  Building a SOC + Honeynet in Azure (Live Traffic)
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
 
@@ -17,3 +18,10 @@ In this project, I built a mini honeynet in Microsoft Azure and ingested log sou
 
 -**Azure Virtual Network (VNet)**
 -**Azure Network Security Groups (NSG)**
+-**Virtrual Machines (VMs)** (2 Windows VMs, 1 Linux VM)
+-**Log Analytics Workspace** with Kusto Query Languaege (KQL)
+*Azure Key Vault** for Secure Secrets Management 
+**Azure Storage Account** for Data Storage 
+**Microsoft Sentinel** for Security Information Event Management (SIEM) 
+**MMicrosoft Defender for Cloud** To Protect Cloud Resources 
+**Windows Remote Desktop.
