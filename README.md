@@ -16,12 +16,14 @@ In this project, I built a mini honeynet in Microsoft Azure and ingested log sou
 
 ## Technologies, Azure Components, and Regulations Employed 
 
--**Azure Virtual Network (VNet)**
--**Azure Network Security Groups (NSG)**
--**Virtrual Machines (VMs)** (2 Windows VMs, 1 Linux VM)
--**Log Analytics Workspace** with Kusto Query Languaege (KQL)
-*Azure Key Vault** for Secure Secrets Management 
-**Azure Storage Account** for Data Storage 
-**Microsoft Sentinel** for Security Information Event Management (SIEM) 
-**MMicrosoft Defender for Cloud** To Protect Cloud Resources 
-**Windows Remote Desktop.
+- Azure Network Security Groups (NSG)
+- Azure Virtual Network (VNet)
+- Virtual Machines (2 Windows VMs, 1 Linux VM)
+- Azure Key Vault for Secure Secrets Management
+- Azure Storage Account for Data Storage
+- Microsoft Sentinel for Security Information and Event Management (SIEM)
+- Microsoft Defender for Cloud to Protect Cloud Resources
+- Window Remote Desktop for Remote Access
+- Command Line Interface (CLI) for System Management
+- PowerShell for Automation and Configuration Management
+- Microsoft Cloud Security Benchmark 
