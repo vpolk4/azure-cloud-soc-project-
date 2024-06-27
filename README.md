@@ -1,5 +1,5 @@
 
- Building a SOC + Honeynet in Azure (Live Traffic)
+## Building a SOC + Honeynet in Azure (Live Traffic)
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
 
 ## Introduction 
@@ -31,6 +31,4 @@ In this project, I built a mini honeynet in Microsoft Azure and ingested log sou
 - NIST SP 800-53 Revision 5 for Security Controls
 - NIST 800-61 Revison 2 for Incident Handling Guidance
 
-
-
-- 
+ ## Architecture Before Hardening And Security Controls 
