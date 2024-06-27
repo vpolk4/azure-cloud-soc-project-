@@ -26,4 +26,11 @@ In this project, I built a mini honeynet in Microsoft Azure and ingested log sou
 - Window Remote Desktop for Remote Access
 - Command Line Interface (CLI) for System Management
 - PowerShell for Automation and Configuration Management
-- Microsoft Cloud Security Benchmark 
+- Microsoft Cloud Security Benchmark
+- Azure CSPM
+- NIST SP 800-53 Revision 5 for Security Controls
+- NIST 800-61 Revison 2 for Incident Handling Guidance
+
+
+
+- 
