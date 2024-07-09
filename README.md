@@ -32,10 +32,18 @@ In this project, I built a mini honeynet in Microsoft Azure and ingested log sou
 - NIST 800-61 Revison 2 for Incident Handling Guidance
 
  ## Architecture Before Hardening And Security Controls 
+In the before, all resouces were initially deployed with public exposure to the internet. This was to attract potential attackers and observe their tactics. The VMs had both their NSGs (Network Security Groups) 
+and firewalls open, allowing unretricted access. 
+
+ 
 ![Architecture Diagram](https://i.imgur.com/1tLjWY9.png)
 
 ## Architecture After Hardening Security Controls 
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+For the after stage, I implemented a series of harending measures and security controls to improve the environment's overall security. 
+
+
+![Architecture Diagram](https://i.imgur.com/ch1cAMU.png)
+
 
  
 
