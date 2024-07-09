@@ -65,6 +65,18 @@ Stop Time 2024-07-06 17:04:29
 
 ```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
 
+
+![image](https://github.com/vpolk4/azure-cloud-soc-project-/assets/135063837/5ed37dd4-8f4a-43a1-8948-8bc6daf8c11f)
+
+
+
+
+
+
+
+
+
+
 ## Metrics After Hardening / Security Controls
 
 
