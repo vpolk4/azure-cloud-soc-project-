@@ -74,7 +74,7 @@ This map highlights the syslog authentication failures experienced by the Linux 
 ![image](https://github.com/vpolk4/azure-cloud-soc-project-/assets/135063837/fb0c6329-514f-466f-90d5-d3667cc7d943)
 
 
-
+This
 ![image](https://github.com/vpolk4/azure-cloud-soc-project-/assets/135063837/35ddb174-e00f-454e-a109-83f6d276d855)
 
 
