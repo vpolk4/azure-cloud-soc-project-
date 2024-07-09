@@ -66,7 +66,13 @@ Stop Time 2024-07-06 17:04:29
 ```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
 
 
+This is what happens when you leave the Network Security Groups (NSG) open, this allowed malicious traffic to flow uninteruppted. 
 ![image](https://github.com/vpolk4/azure-cloud-soc-project-/assets/135063837/5ed37dd4-8f4a-43a1-8948-8bc6daf8c11f)
+
+
+This map highlights the syslog authentication failures experienced by the Linux server deployed. You can see the unauthorized attempts from the outside.
+![image](https://github.com/vpolk4/azure-cloud-soc-project-/assets/135063837/fb0c6329-514f-466f-90d5-d3667cc7d943)
+
 
 
 
