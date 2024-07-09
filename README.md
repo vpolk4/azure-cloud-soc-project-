@@ -78,16 +78,8 @@ This attack map shows the RDP and SMB failures by potential attackers. This is w
 ![image](https://github.com/vpolk4/azure-cloud-soc-project-/assets/135063837/35ddb174-e00f-454e-a109-83f6d276d855)
 
 
-
-
-
-
-
-
-
-
-
 ## Metrics After Hardening / Security Controls
+All map queries showed no due to instances of malicious activity for the 24 hours after the environment was hardened. 
 
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
@@ -104,7 +96,10 @@ Stop Time 2024-07-08 17:02:29
 | AzureNetworkAnalytics_CL | 0
 
 
+## Conclusion 
+In conclusion, I set up a honeynet using Microsoft Azure's cloud infrastructure. I used Sentinel to trigger alerts and generate incidents based on the logs from the watch lists. Metrics were recorded in the unprotected environment before I implemented any security controls. After that, a range of security controls were implemented to protect the network against security threats. 
 
+The comparison between pre and post implementation methods demonstrated a signifcant reduction in security events and incidents. 
 
 
 
