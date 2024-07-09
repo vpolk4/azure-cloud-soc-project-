@@ -32,3 +32,32 @@ In this project, I built a mini honeynet in Microsoft Azure and ingested log sou
 - NIST 800-61 Revison 2 for Incident Handling Guidance
 
  ## Architecture Before Hardening And Security Controls 
+![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+
+
+ 
+
+ The following table shows the metrics we measured in our insecure environement for 24 hours:
+
+Start Time 2024-07-07 17:04:29
+Stop Time 2024-07-08 17:04:29
+
+
+| Metric                   | Count
+| ------------------------ | -----
+| SecurityEvent            | 19470
+| Syslog                   | 3028
+| SecurityAlert            | 10
+| SecurityIncident         | 348
+| AzureNetworkAnalytics_CL | 843
+
+## Attack Maps Before Hardening / Security Controls
+
+
+
+
+
+
+
+
+ 
