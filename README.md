@@ -34,6 +34,8 @@ In this project, I built a mini honeynet in Microsoft Azure and ingested log sou
  ## Architecture Before Hardening And Security Controls 
 ![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
 
+## Architecture After Hardening Security Controls 
+![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
 
  
 
